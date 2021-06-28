@@ -7,7 +7,7 @@ const About = () => (
     <div className="w3-container w3-padding-large w3-center" id="about">
       <div className="w3-col m12">
         <img
-          src="../../../imgs/silhouette.JPG"
+          src="imgs/silhouette.JPG"
           alt="Me"
           style={{ width: 50 + "%", margin: 20 + "px" }}
         />

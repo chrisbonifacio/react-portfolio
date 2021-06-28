@@ -20,7 +20,7 @@ function NavTabs(props) {
           </a>
           <img
             id="sidebar-img"
-            src="../../imgs/Smooke_Headshot.jpeg"
+            src="imgs/Smooke_Headshot.jpeg"
             className="w3-round"
             alt="headshot"
           />

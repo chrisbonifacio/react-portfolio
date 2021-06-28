@@ -8,7 +8,7 @@ const Portfolio = () => (
       <header id="portfolio">
         <a href="./Portfolio.js">
           <img
-            src="../../../imgs/Smooke_Headshot.png"
+            src="imgs/Smooke_Headshot.png"
             className="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"
             id="avatar"
             alt="headshot"
@@ -39,7 +39,7 @@ const Portfolio = () => (
         <div className="w3-row-padding ">
           <div className="w3-third w3-container w3-margin-bottom ">
             <img
-              src="../../../imgs/refactored-demo.png"
+              src="imgs/refactored-demo.png"
               alt="go-for-launch"
               style={{ width: 100 + "%" }}
               className="w3-hover-opacity"
@@ -74,7 +74,7 @@ const Portfolio = () => (
           </div>
           <div className="w3-third w3-container w3-margin-bottom">
             <img
-              src="../../../imgs/query_cuisine_pic_1.png"
+              src="imgs/query_cuisine_pic_1.png"
               alt="github-QueryCuisine"
               style={{ width: 100 + "%" }}
               className="w3-hover-opacity"
@@ -147,7 +147,7 @@ const Portfolio = () => (
         <div className="w3-row-padding">
           <div className="w3-third w3-container w3-margin-bottom">
             <img
-              src="../../../imgs/planner-demo.png"
+              src="imgs/planner-demo.png"
               alt="github-WorkdayPlanner"
               style={{ width: 100 + "%" }}
               className="w3-hover-opacity"
@@ -258,7 +258,7 @@ const Portfolio = () => (
         <div class="w3-row-padding">
           <div class="w3-third w3-container w3-margin-bottom">
             <img
-              src="../../../imgs/Tenn_6.jpg"
+              src="imgs/Tenn_6.jpg"
               alt="thst-costumes"
               style={{ width: 100 + "%" }}
               class="w3-hover-opacity"
@@ -284,7 +284,7 @@ const Portfolio = () => (
           </div>
           <div class="w3-third w3-container w3-margin-bottom">
             <img
-              src="../../../imgs/1776.jpg"
+              src="imgs/1776.jpg"
               alt="thst-directing"
               style={{ width: 100 + "%" }}
               className="w3-hover-opacity"
